@@ -5,4 +5,10 @@
 
 [![Video Label](http://img.youtube.com/vi/_aJagQC7hpE/0.jpg)](https://www.youtube.com/watch?v=_aJagQC7hpE)
 
-## 
+## 기능에 힘줬을때 1
+
+[![Video Label](http://img.youtube.com/vi/C6OeHTS9HbU/0.jpg)](https://www.youtube.com/watch?v=C6OeHTS9HbU)
+
+## 기능에 힘줬을때 2
+
+[![Video Label](http://img.youtube.com/vi/ydgmAAk4fRs/0.jpg)](https://www.youtube.com/watch?v=ydgmAAk4fRs)
